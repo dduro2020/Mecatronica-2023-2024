@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg26010"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="prueba_brazo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26012"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.49260384"
+     inkscape:rotation="-173"
+     inkscape:cx="588.34908"
+     inkscape:cy="669.25058"
+     inkscape:window-width="1866"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs26007" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6c1fba;stroke-width:0.264583"
+       id="rect26036"
+       width="71.483131"
+       height="9.8509426"
+       x="70.212204"
+       y="-18.279757"
+       transform="rotate(51.826642)" />
+    <rect
+       style="fill:#e92d6b;fill-opacity:1;stroke-width:0.264583"
+       id="rect26036-6"
+       width="71.483131"
+       height="9.8509426"
+       x="117.67933"
+       y="-57.178673"
+       transform="rotate(91.009702)" />
+    <rect
+       style="fill:#6cbc25;fill-opacity:1;stroke-width:0.264583"
+       id="rect26036-3"
+       width="71.483131"
+       height="9.8509426"
+       x="101.36553"
+       y="-100.68143"
+       transform="rotate(89.281665)" />
+    <rect
+       style="fill:#f8d606;fill-opacity:1;stroke-width:0.264583"
+       id="rect26036-8"
+       width="71.483131"
+       height="9.8509426"
+       x="142.25494"
+       y="123.51277"
+       transform="rotate(33.810553)"
+       inkscape:transform-center-x="11.120236"
+       inkscape:transform-center-y="-51.247836" />
+    <rect
+       style="fill:#6c1f42;fill-opacity:1;stroke-width:0.264583"
+       id="rect26036-2"
+       width="71.483131"
+       height="9.8509426"
+       x="118.41022"
+       y="35.617279"
+       transform="rotate(48.094685)" />
+    <rect
+       style="fill:#6ce7da;fill-opacity:1;stroke-width:0.264583"
+       id="rect26036-33"
+       width="71.483131"
+       height="9.8509426"
+       x="219.36142"
+       y="-113.22517"
+       transform="rotate(91.133758)" />
+  </g>
+</svg>
